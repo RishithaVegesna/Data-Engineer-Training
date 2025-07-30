@@ -1,0 +1,7 @@
+employee_id,name,department_name,work_hours,productivity_score,Rank
+6,Manoj,Sales,7.0,0.14285714285714285,Top
+3,Sneha,Sales,7.25,0.1380952380952381,Top
+2,Anil,IT,7.458333333333333,0.13411588411588413,Top
+7,Meena,HR,8.25,0.12121212121212122,Bottom
+5,Priya,Marketing,8.333333333333334,0.12,Bottom
+8,Varun,Finance,8.333333333333334,0.12,Bottom
