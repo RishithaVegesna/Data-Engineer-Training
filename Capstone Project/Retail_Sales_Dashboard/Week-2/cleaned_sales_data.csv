@@ -1,0 +1,8 @@
+SaleID,ProductID,StoreID,QuantitySold,SaleDate,ProductName,Category,Price,Stock,Revenue,Cost,Profit
+301,1,101,3,2024-07-01,Laptop,Electronics,55000.0,30,165000.0,44000.0,33000.0
+302,2,102,5,2024-07-02,Mobile Phone,Electronics,25000.0,50,125000.0,20000.0,25000.0
+303,3,103,2,2024-07-02,Shoes,Footwear,2000.0,100,4000.0,1600.0,800.0
+304,5,102,6,2024-07-03,Smart Watch,Electronics,5000.0,40,30000.0,4000.0,6000.0
+305,4,101,4,2024-07-03,T-Shirt,Clothing,800.0,70,3200.0,640.0,640.0
+306,2,104,7,2024-07-04,Mobile Phone,Electronics,25000.0,50,175000.0,20000.0,35000.0
+307,6,105,5,2024-07-04,Bluetooth Speaker,Electronics,1500.0,25,7500.0,1200.0,1500.0
