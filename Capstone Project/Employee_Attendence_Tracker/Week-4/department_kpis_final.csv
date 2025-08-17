@@ -1,0 +1,6 @@
+department_name,Avg_WorkHours,Avg_TasksCompleted,Avg_Productivity,Absenteeism_Count
+Finance,8.33,1.0,0.12,0
+HR,7.9,1.0,0.13,0
+IT,7.65,1.0,0.13,0
+Marketing,8.33,1.0,0.12,0
+Sales,7.17,1.0,0.14,0
